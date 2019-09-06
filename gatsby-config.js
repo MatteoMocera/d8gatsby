@@ -33,7 +33,7 @@ module.exports = {
     {
     resolve: `gatsby-source-drupal`,
       options: {
-        baseUrl: `http://wdl.locale/`,
+        baseUrl: `http://template.whitedrop.it/`,
       },
     },
   ],
